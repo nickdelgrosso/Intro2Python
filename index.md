@@ -22,12 +22,11 @@ In this hands-on workshop, we cover the basics of the Python programming languag
     
   - *14:00 - 16:00*: [**Selecting and Generating Data with Numpy**](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/5%20Matrices.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/5%20Matrices.ipynb)
   
-  - *16:15 - 18:00*: [**Plotting Cropped Data with Numpy and Matplotlib**]
-    (https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/6%20Indexing%20Exercise.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/6%20Indexing%20Exercise.ipynb)
+  - *16:15 - 18:00*: [**Plotting Cropped Data with Numpy and Matplotlib**](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/6%20Indexing%20Exercise.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/6%20Indexing%20Exercise.ipynb)
   
-    - **Data**: [https://raw.githubusercontent.com/nickdelgrosso/Intro2Py/master/cells.jpg](https://raw.githubusercontent.com/nickdelgrosso/Intro2Py/master/cells.jpg)
+    - **Data**: [https://raw.githubusercontent.com/nickdelgrosso/Intro2Python/master/cells.jpg](https://raw.githubusercontent.com/nickdelgrosso/Intro2Python/master/cells.jpg)
     
-      - [Download Link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Py/blob/master/cells.jpg)
+      - [Download Link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/cells.jpg)
       
       
 ## References
