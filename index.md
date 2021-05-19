@@ -16,7 +16,7 @@ In this hands-on workshop, we cover the basics of the Python programming languag
   
   - *10:30 - 11:30*: [**Computing Descriptive Statistics with Numpy**](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/2%20Numpy%20Stats.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/2%20Numpy%20Stats.ipynb)
   
-  - *11:30 - 12:30*: [**Analyze Data with Numpy**](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/2%20Numpy%20Stats%20%Exercise.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/2%20Numpy%20Stats%20%Exercise.ipynb)
+  - *11:30 - 12:30*: [**Analyze Data with Numpy**](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/main/3%20Numpy%20Stats%20Exercise.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/3%20Numpy%20Stats%20%Exercise.ipynb)
   
   - *12:30 - 14:00*: **Lunch**
     
