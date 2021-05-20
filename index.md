@@ -27,11 +27,20 @@ In this hands-on workshop, we cover the basics of the Python programming languag
       
 ### Day 2: Matrices, Images, and Plots
 
-  - *10:00 - 10:45*: [**Matrices: Slicing in N Dimensions**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/7%20Matrices.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/7%20Matrices.ipynb)  
+  - *10:00 - 12:10*: [**Matrices: Slicing in N Dimensions**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/7%20Matrices.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/7%20Matrices.ipynb)  
+  
+  - *12:15 - 12:30*: [**Plotting Cropped Data with Numpy and Matplotlib**](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/6%20Indexing%20Exercise.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/6%20Indexing%20Exercise.ipynb)
+    
+    - **Data**: [https://raw.githubusercontent.com/nickdelgrosso/Intro2Python/master/cells.jpg](https://raw.githubusercontent.com/nickdelgrosso/Intro2Python/master/cells.jpg)
+    
+      - [Download Link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/cells.jpg)
+    
+  
   
   - *11:00 - 11:45*: [**Logical Indexing**]
 <!--   (
 https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/8%20LogicalIndexing.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/8%20LogicalIndexing.ipynb)   -->
+
   
   
   - *11:45 - 12:15*: [**Plotting: Cropping Images**]
