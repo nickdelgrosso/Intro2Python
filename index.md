@@ -27,13 +27,16 @@ In this hands-on workshop, we cover the basics of the Python programming languag
       
 ### Day 2: Matrices, Images, and Plots
 
-  - *10:00 - 10:45*: [**Matrices: Slicing in N Dimensions**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/7%20Matrices.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/7%20Matrices.ipynb)  
+  - *10:00 - 10:45*: [**Matrices: Slicing in N Dimensions**]
+<!--   ( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/7%20Matrices.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/7%20Matrices.ipynb)   -->
   
-  - *11:00 - 11:45*: [**Logical Indexing**](
-https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/8%20LogicalIndexing.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/8%20LogicalIndexing.ipynb)  
+  - *11:00 - 11:45*: [**Logical Indexing**]
+<!--   (
+https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/8%20LogicalIndexing.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/8%20LogicalIndexing.ipynb)   -->
   
   
-  - *11:45 - 12:15*: [**Plotting: Cropping Images**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/9%20Indexing%20Exercise.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/9%20Indexing%20Exercise.ipynb)  
+  - *11:45 - 12:15*: [**Plotting: Cropping Images**]
+<!--   ( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/9%20Indexing%20Exercise.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/9%20Indexing%20Exercise.ipynb)   -->
   
     - **Data**: [https://raw.githubusercontent.com/nickdelgrosso/Intro2Python/master/cells.jpg](https://raw.githubusercontent.com/nickdelgrosso/Intro2Python/master/cells.jpg)
     
@@ -42,14 +45,16 @@ https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgross
     
   - *12:30 - 14:00*: Lunch Break
     
-<!--   - *14:00 - 14:45*: [Intro to Matplotlib](
-https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/10%20Matplotlib%20Interfaces.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/10%20Matplotlib%20Interfaces.ipynb)  
+  - *14:00 - 14:45*: [Intro to Matplotlib]
+<!--   (
+https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/10%20Matplotlib%20Interfaces.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/10%20Matplotlib%20Interfaces.ipynb)   -->
     
-  - *14:45 - 16:00*: [Matplotlib Exercises](
-https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/11%20MatplotlibPlotting.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/11%20MatplotlibPlotting.ipynb) 
+  - *14:45 - 16:00*: [Matplotlib Exercises]
+<!--   (
+https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/11%20MatplotlibPlotting.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/11%20MatplotlibPlotting.ipynb)  -->
     
   - *16:15 - 17:30*: **Understanding Python's Naming System: Value By Reference**
-   -->
+  
       
 ## References
 
