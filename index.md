@@ -36,11 +36,11 @@ https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgross
   
   - *11:45 - 12:15*: [**Plotting: Cropping Images**]
 <!--   ( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/9%20Indexing%20Exercise.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/9%20Indexing%20Exercise.ipynb)   -->
-  
+<!--   
     - **Data**: [https://raw.githubusercontent.com/nickdelgrosso/Intro2Python/master/cells.jpg](https://raw.githubusercontent.com/nickdelgrosso/Intro2Python/master/cells.jpg)
     
       - [Download Link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/cells.jpg)
-    
+     -->
     
   - *12:30 - 14:00*: Lunch Break
     
