@@ -37,9 +37,8 @@ In this hands-on workshop, we cover the basics of the Python programming languag
     
   
   
-  - *11:00 - 11:45*: [**Logical Indexing**]
-<!--   (
-https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/8%20LogicalIndexing.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/8%20LogicalIndexing.ipynb)   -->
+  - *11:00 - 11:45*: [**Logical Indexing**](
+https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/8%20LogicalIndexing.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/8%20LogicalIndexing.ipynb)  
 
   
   
