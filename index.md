@@ -28,7 +28,7 @@ In this hands-on workshop, we cover the basics of the Python programming languag
 ### Day 2: Matrices, Images, and Plots
 
   - *10:00 - 10:45*: [**Matrices: Slicing in N Dimensions**]
-<!--   ( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/7%20Matrices.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/7%20Matrices.ipynb)   -->
+  ( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/7%20Matrices.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/7%20Matrices.ipynb)  
   
   - *11:00 - 11:45*: [**Logical Indexing**]
 <!--   (
