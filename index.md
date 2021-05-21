@@ -58,6 +58,17 @@ https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgross
     
 <!--   - *16:15 - 17:30*: **Understanding Python's Naming System: Value By Reference** -->
   
+### Day 3: Intro to Pandas DataFrames
+
+  - *9:45 - 10:30*: [**The DataFrame Data Structure**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/12_DataFrame_Creation.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/12_DataFrame_Creation.ipynb)  
+
+  - *10:45 - 12:00*: [**Indexing Pandas DataFrames**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/13_Indexing_DataFrames.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/13_Indexing_DataFrames.ipynb)  
+  
+  - *12:30 - 14:00*: Lunch Break
+  
+  - *14:00 - 15:15*: [**GroupBy and Seaborn**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/14_Groupby_Seaborn.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/14_Groupby_Seaborn.ipynb)  
+  
+  - *15:30 - 17:30*: [**Review: Data Analysis Project**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/15_Review_DataFrames_And_Seaborn.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/15_Review_DataFrames_And_Seaborn.ipynb)  
       
 ## References
 
