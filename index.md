@@ -82,6 +82,12 @@ https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgross
   
   - *11:45 - 12:30*: [**Paper Discussion: "Good Enough Practices in Scientific Computing"**]( https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
   
+    - Presentations (feel free to use them for your journal clubs!)
+      - [Good Enough Practices: Data Management](https://docs.google.com/presentation/d/1QhBUGaQDskzZH8zc8bWghp-LXjG9awTh0d0QCiTG6OM/edit?usp=sharing)
+      - [Good Enough Practices: Software Development](https://docs.google.com/presentation/d/1r1YQYPqi5sCi3TwxYBXSiawmghi6OGQg5yK7Kjyo0nQ/edit?usp=sharing)
+      - [Good Enough Practices: Software Engineering](https://docs.google.com/presentation/d/1RG0TuZjcKgJ91rQIUcgyZqiGCrPzFVoUyygWeElhDIo/edit?usp=sharing)
+      
+  
   - *12:30 - 14:00*: Lunch Break
   
   - *14:30 - 15:30*: [**Specifying File Paths to Datasets**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/17_Files_Filepaths_and_Pathlib.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/17_Files_Filepaths_and_Pathlib.ipynb)  
