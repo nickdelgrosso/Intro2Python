@@ -78,18 +78,17 @@ https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgross
       - **Data**: [https://raw.githubusercontent.com/nickdelgrosso/Intro2Python/master/MentalRotation.csv](https://raw.githubusercontent.com/nickdelgrosso/Intro2Python/master/MentalRotation.csv)
     
       - [Download Link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/MentalRotation.csv)
-      
-  - *10:45 - 11:45*: [**Specifying File Paths to Datasets**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/17_Files_Filepaths_and_Pathlib.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/17_Files_Filepaths_and_Pathlib.ipynb)  
+     
   
   - *11:45 - 12:30*: [**Paper Discussion: "Good Enough Practices in Scientific Computing"**]( https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
   
   - *12:30 - 14:00*: Lunch Break
   
-  - *14:00 - 15:15*: Merging Multiple Datasets
+  - *14:30 - 15:30*: [**Specifying File Paths to Datasets**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/17_Files_Filepaths_and_Pathlib.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/17_Files_Filepaths_and_Pathlib.ipynb)  
   
-  - *15:30 - 16:45*: Review DataFrame Merging: Data Analysis Project
+  - *15:45 - 17:00*: [**Concatenating, Merging, and Melting DataFrames**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/18_Merging_DataFrames.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/18_Merging_DataFrames.ipynb)  
   
-  - *16:45 - 17:30*: Shared Exercise: Munging the MaxQuant Tabular Format
+  - *17:00 - 17:30*: Shared Exercise: Munging the MaxQuant Tabular Format
       
 ## References
 
