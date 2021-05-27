@@ -81,7 +81,7 @@ https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgross
       
   - *10:45 - 11:45*: [**Specifying File Paths to Datasets**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/17_Files_Filepaths_and_Pathlib.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/17_Files_Filepaths_and_Pathlib.ipynb)  
   
-  - *11:45 - 12:30*: [**Paper Discussion: "Good Enough Practices in Scientific Computing"**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/Good_Enough_Practices_Data_Management.pdf)
+  - *11:45 - 12:30*: [**Paper Discussion: "Good Enough Practices in Scientific Computing"**]( https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
   
   - *12:30 - 14:00*: Lunch Break
   
