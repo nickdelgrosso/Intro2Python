@@ -70,6 +70,27 @@ https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgross
   
   - *15:30 - 17:30*: [**Review: Data Analysis Project**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/15_Review_DataFrames_And_Seaborn.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/15_Review_DataFrames_And_Seaborn.ipynb)  
       
+      
+### Day 4: Managing Multiple Datasets
+
+  - *9:45 - 10:30*: [**Review: Data Analysis Project 2**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/16_Review_DataFrames_And_Seaborn2.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/16_Review_DataFrames_And_Seaborn2.ipynb)  
+  
+      - **Data**: [https://raw.githubusercontent.com/nickdelgrosso/Intro2Python/master/MentalRotation.csv](https://raw.githubusercontent.com/nickdelgrosso/Intro2Python/master/MentalRotation.csv)
+    
+      - [Download Link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/MentalRotation.csv)
+      
+  - *10:45 - 11:45*: [**Specifying File Paths to Datasets**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/17_Files_Filepaths_and_Pathlib.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/17_Files_Filepaths_and_Pathlib.ipynb)  
+  
+  - *11:45 - 12:30*: [**Paper Discussion: "Good Enough Practices in Scientific Computing"**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/Good_Enough_Practices_Data_Management.pdf)
+  
+  - *12:30 - 14:00*: Lunch Break
+  
+  - *14:00 - 15:15*: Merging Multiple Datasets
+  
+  - *15:30 - 16:45*: Review DataFrame Merging: Data Analysis Project
+  
+  - *16:45 - 17:30*: Shared Exercise: Munging the MaxQuant Tabular Format
+      
 ## References
 
 
