@@ -99,7 +99,7 @@ https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgross
   
 ### Day 5: Special Topics
 
-  - *9:45 - 10:15*: **Making Our own Modules of Functions**
+  - *9:45 - 10:15*: [**Making our own Cookbooks: Modules of Functions**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/19_Organizing_Code_into_Functions.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/19_Organizing_Code_into_Functions.ipynb)  
   
   - *10:15 - 11:30*: [**Statistics with Pandas and Pingouin**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/20_Stats_With_Pingouin.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/20_Stats_With_Pingouin.ipynb)  
 
