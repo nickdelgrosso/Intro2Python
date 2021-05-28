@@ -108,7 +108,7 @@ https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgross
   
   - *15:00 - 16:00*: [**Loops and Iteration in Python**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/22_Looping_Through_Data.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/22_Looping_Through_Data.ipynb)  
   
-  - *15:45 - 17:15*: *BioPython: Working with Sequences*
+  - *15:45 - 17:15*: [**BioPython: Working with Sequences**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/23_Biopython_Sequences.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/23_Biopython_Sequences.ipynb)  
   
   
   
