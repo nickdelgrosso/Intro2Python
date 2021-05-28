@@ -95,7 +95,26 @@ https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgross
   - *15:45 - 17:00*: [**Concatenating, Merging, and Melting DataFrames**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/18_Merging_DataFrames.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/18_Merging_DataFrames.ipynb)  
   
   - *17:00 - 17:30*: Shared Exercise: Munging the MaxQuant Tabular Format
-      
+  
+  
+### Day 5: Special Topics
+
+  - *9:45 - 10:15*: **Making Our own Modules of Functions**
+  
+  - *10:15 - 11:30*: [**Statistics with Pandas and Pingouin**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/20_Stats_With_Pingouin.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/20_Stats_With_Pingouin.ipynb)  
+
+  - *11:30 - 12:30*: [**Python Strings and Lists**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/21_Working_With_Strings_and_Lists.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/21_Working_With_Strings_and_Lists.ipynb)  
+
+  - *12:30 - 14:00*: Lunch Break
+  
+  - *14:00 - 15:30*: *Loops and Iteration in Python*
+  
+  - *15:45 - 17:15*: *BioPython: Working with Sequences*
+  
+  
+  
+  
+
 ## References
 
 
