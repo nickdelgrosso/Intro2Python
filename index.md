@@ -49,7 +49,6 @@ In this hands-on workshop, we cover the basics of the Python programming languag
   - *14:00 - 15:00*: [**Logical Indexing**](
 https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/8%20LogicalIndexing.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/8%20LogicalIndexing.ipynb)  
 
-    
   - *15:30 - 16:00*: [Intro to Matplotlib](
 https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/10%20Matplotlib%20Interfaces.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/10%20Matplotlib%20Interfaces.ipynb) 
     
@@ -103,11 +102,11 @@ https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgross
   
   - *10:15 - 11:30*: [**Statistics with Pandas and Pingouin**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/20_Stats_With_Pingouin.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/20_Stats_With_Pingouin.ipynb)  
 
-  - *11:30 - 12:30*: [**Python Strings and Lists**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/21_Working_With_Strings_and_Lists.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/21_Working_With_Strings_and_Lists.ipynb)  
-
   - *12:30 - 14:00*: Lunch Break
+ 
+   - *14:20 - 15:00*: [**Python Strings and Lists**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/21_Working_With_Strings_and_Lists.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/21_Working_With_Strings_and_Lists.ipynb)  
   
-  - *14:00 - 15:30*: *Loops and Iteration in Python*
+  - *15:00 - 16:00*: [**Loops and Iteration in Python**]( https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nickdelgrosso/Intro2Python/blob/master/22_Looping_Through_Data.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro2Python/blob/master/22_Looping_Through_Data.ipynb)  
   
   - *15:45 - 17:15*: *BioPython: Working with Sequences*
   
